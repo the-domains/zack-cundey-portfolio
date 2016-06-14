@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: site | space | studio
-datePublished: '2016-06-14T00:59:56.522Z'
-dateModified: '2016-06-14T00:56:30.407Z'
+datePublished: '2016-06-14T02:20:45.882Z'
+dateModified: '2016-06-14T02:19:56.904Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-14-site-or-space-or-studio.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-14-site-or-space-or-studio.md
 url: site-or-space-or-studio/index.html
 _type: Article
 
